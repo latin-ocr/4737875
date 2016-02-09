@@ -1,0 +1,51 @@
+14 ' ‘— [2'16] —
+
+parum probasse, duae quaestiones oboriuntur, quarum altera
+haec¹ est, num quid 100 illis locis, quibus exitum imperfec-
+tum legimus, commune sit, quo explicetur, cur a norma ce-
+teroqui sedulo observata recesserit, altera illa est, num om-
+nes illi loci sani sint traditi. Quae res cum diligenti ob-
+servatione indigeat, necesse est ut subiciamus tabulam lo-
+corum, in qua versus et secundum eum numerum, quem
+habent in toto carmine, et secundum eum, quem habent in
+stropha vel epodo, citabimus.
+Uncis autem inclusum addemus numerum versuum to-
+tius carminis, ut appareat, quanta sit frequentia exituum im-
+perfectorum in singulis carminibus. Simul adscribcmus sin-
+gulis locis, qualis sit natura exitus in reliquis locis parallelis
+ratione habita initii versus sequentis, ita ut discernamus sep-
+tem classes exituum:
+1. exit versus in longam clausam aut
+exit versus in longam apertam et incipit sequens a
+consonante:
+Habemus exitum longum (l.)
+
+2. exit versus in longam apertam et incipit sequens a
+vocali:
+Habemus exitum longum cum hiatu (h.)
+
+3. exit versus in brevem clausam et incipit sequens a
+
+consonante:
+Habemus exitum brevem cum positione (p.)
+
+4. exit versus in brevem clausam et incipit sequens a
+
+vocali:
+Habemus exitum brevem (br.)
+
+5. exit versus in brevem apertam et incipit sequens a
+
+consonante duplici:
+Habemus exitum imperfectum cum positione ¹(ip.)
+
+6. exit versus in brevem apertam et incipit sequens a
+
+consonante simplici:
+Habemus exitum imperfectum (i.)
+
+7. exit versus in brevem apertam et incipit sequens a
+
+vocali:
+Habemus exitum imperfectum cum hiatu (ih.)
+
